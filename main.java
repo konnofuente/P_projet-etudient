@@ -11,7 +11,7 @@ class main {
         -have list of student
         -have student mark
         -have student average
-
+        //
         ***syntax in declarating tablle of student
         etudient[] tab_etu=new etudient[5];  
         tab_etu[1]=etu;
